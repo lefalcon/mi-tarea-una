@@ -1,4 +1,6 @@
 
+# es un comentario para el github
+
 # How to get a ScreenShot, and used to follow the dynamic of the traffic with GoogleMaps.
 
 # install the pyautogui package:
